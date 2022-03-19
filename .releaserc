@@ -1,4 +1,4 @@
 {
   "branches": ["main", "next"],
-  repositoryUrl: "https://github.com/marktm/semantic-release-with-github-actions.git"
+  repositoryUrl: "https://www.npmjs.com/settings/marktm/packages"
 }
