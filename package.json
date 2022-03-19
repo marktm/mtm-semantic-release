@@ -4,6 +4,11 @@
   "repository": "https://github.com/marktm/semantic-release-with-github-actions",
   "main": "index.js",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^9.0.1",
+    "@semantic-release/release-notes-generator": "^10.0.3",
     "jest": "^27.5.1",
     "semantic-release": "^19.0.2"
   },
@@ -11,7 +16,6 @@
     "test": "jest test.js"
   },
   "private": false,
-
   "publishConfig": {
     "access": "public"
   }
