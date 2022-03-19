@@ -13,7 +13,8 @@
     "semantic-release": "^19.0.2"
   },
   "scripts": {
-    "test": "jest test.js"
+    "test": "jest test.js",
+    "publish:dry-run": "semantic-release --dry-run --no-ci"
   },
   "private": false,
   "publishConfig": {
