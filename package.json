@@ -14,7 +14,8 @@
   },
   "scripts": {
     "test": "jest test.js",
-    "publish:dry-run": "semantic-release --dry-run --no-ci"
+    "semantic-release": "semantic-release",
+    "semantic-release:dry-run": "semantic-release --dry-run --no-ci"
   },
   "private": false,
   "publishConfig": {
