@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-with-github-actions",
   "version": "0.0.0-development",
-  "repository": "https://www.npmjs.com/settings/marktm/packages/semantic-release-with-github-actions",
+  "repository": "https://github.com/marktm/semantic-release-with-github-actions",
   "main": "index.js",
   "devDependencies": {
     "jest": "^27.5.1",
