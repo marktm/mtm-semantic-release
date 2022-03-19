@@ -1,3 +1,17 @@
+# [1.12.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.11.0...v1.12.0) (2022-03-19)
+
+
+### Features
+
+* add README ([55a8dbb](https://github.com/marktm/semantic-release-with-github-actions/commit/55a8dbb6847ef6cf09c2fa1183de78801653e209))
+
+# [1.12.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.11.0...v1.12.0) (2022-03-19)
+
+
+### Features
+
+* add README ([55a8dbb](https://github.com/marktm/semantic-release-with-github-actions/commit/55a8dbb6847ef6cf09c2fa1183de78801653e209))
+
 # [1.11.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.10.0...v1.11.0) (2022-03-19)
 
 
