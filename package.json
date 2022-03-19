@@ -9,8 +9,5 @@
   },
   "scripts": {
     "test": "jest test.js"
-  },
-  "release": {
-    "branches": ["main", "next"]
   }
 }
