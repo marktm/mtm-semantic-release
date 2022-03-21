@@ -1,3 +1,31 @@
+## [1.15.1](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.15.0...v1.15.1) (2022-03-21)
+
+
+### Bug Fixes
+
+* docs update ([14d4910](https://github.com/marktm/semantic-release-with-github-actions/commit/14d4910b24f2e2abfc22d5c2352432cc996bf104))
+
+## [1.15.1](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.15.0...v1.15.1) (2022-03-21)
+
+
+### Bug Fixes
+
+* docs update ([14d4910](https://github.com/marktm/semantic-release-with-github-actions/commit/14d4910b24f2e2abfc22d5c2352432cc996bf104))
+
+# [1.15.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.14.0...v1.15.0) (2022-03-21)
+
+
+### Features
+
+* remove sub, again ([056e351](https://github.com/marktm/semantic-release-with-github-actions/commit/056e351edb75c9de38dc24d6082d50df1ec4b628))
+
+# [1.15.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.14.0...v1.15.0) (2022-03-21)
+
+
+### Features
+
+* remove sub, again ([056e351](https://github.com/marktm/semantic-release-with-github-actions/commit/056e351edb75c9de38dc24d6082d50df1ec4b628))
+
 # [1.14.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.13.0...v1.14.0) (2022-03-20)
 
 
