@@ -1,3 +1,1 @@
 # mtm-semantic-release
-
-Test
