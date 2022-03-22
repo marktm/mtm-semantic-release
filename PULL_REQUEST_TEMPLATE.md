@@ -1,1 +1,1 @@
-#Pull Request Template
+Pull Request Template
