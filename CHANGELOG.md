@@ -1,3 +1,10 @@
+# [1.18.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.17.0...v1.18.0) (2022-04-13)
+
+
+### Features
+
+* remove sub ([8cf44ba](https://github.com/marktm/semantic-release-with-github-actions/commit/8cf44ba398b443e112c9b00ed09163f6fccfa45a))
+
 # [1.17.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.16.0...v1.17.0) (2022-03-25)
 
 
