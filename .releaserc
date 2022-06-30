@@ -1,20 +1,24 @@
 {
-  "branches": ["main", "next"],
-
+  "branches": [
+    "main",
+    "next"
+  ],
   "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
     [
       "@semantic-release/changelog",
       {
-        "changelogFile": "CHANGELOG.md"
+        "changelogFile": "CHANGELOG.md",
+        "changelogTitle": "# Change Log"
       }
     ],
-      "@semantic-release/npm",
-
-      "@semantic-release/git",
-      {
-        "assets": ["CHANGELOG.md"]
-      }
-    ]
+    "@semantic-release/npm",
+    "@semantic-release/git",
+    {
+      "assets": [
+        "CHANGELOG.md"
+      ]
+    }
+  ]
 }
