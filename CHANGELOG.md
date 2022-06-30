@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.18.0...v1.19.0) (2022-06-30)
+
+
+### Features
+
+* remove old func ([50def9a](https://github.com/marktm/semantic-release-with-github-actions/commit/50def9a845c2af8afd2c0806f68821913023ad1a))
+
 # [1.18.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.17.0...v1.18.0) (2022-04-13)
 
 
