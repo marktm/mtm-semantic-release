@@ -1,3 +1,12 @@
+# Change Log
+
+# [1.20.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.19.0...v1.20.0) (2022-06-30)
+
+
+### Features
+
+* add func ([aebbf30](https://github.com/marktm/semantic-release-with-github-actions/commit/aebbf30e439f850cbde3af15e737ec1c353f51bb))
+
 # [1.19.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.18.0...v1.19.0) (2022-06-30)
 
 
