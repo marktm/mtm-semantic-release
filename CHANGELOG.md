@@ -1,5 +1,12 @@
 # Change Log
 
+# [1.21.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.20.0...v1.21.0) (2022-06-30)
+
+
+### Features
+
+* add some badges ([5a77295](https://github.com/marktm/semantic-release-with-github-actions/commit/5a77295168900f2c143e99ee6828ff7ed55be346))
+
 # [1.20.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.19.0...v1.20.0) (2022-06-30)
 
 
