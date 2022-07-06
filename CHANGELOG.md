@@ -1,5 +1,12 @@
 # Change Log
 
+# [1.22.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.21.0...v1.22.0) (2022-07-06)
+
+
+### Features
+
+* move files to src ([9e1f22f](https://github.com/marktm/semantic-release-with-github-actions/commit/9e1f22fc2feed90938cc20c44f47c9255ed54bf7))
+
 # [1.21.0](https://github.com/marktm/semantic-release-with-github-actions/compare/v1.20.0...v1.21.0) (2022-06-30)
 
 

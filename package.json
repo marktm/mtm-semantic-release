@@ -1,6 +1,6 @@
 {
   "name": "mtm-semantic-release",
-  "version": "1.21.0",
+  "version": "1.22.0",
   "repository": "https://github.com/marktm/semantic-release-with-github-actions",
   "main": "./src/index.js",
   "devDependencies": {
